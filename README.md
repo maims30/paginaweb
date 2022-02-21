@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
     <head>
     <title>Currículum vitae</title>
@@ -49,7 +48,7 @@
             <th>LEIDO</th>
         </tr>
         <tr>
-            <td align="center">Español</ctd>
+            <td align="center">Español</td>
             <td align="center">Alto</td>
             <td align="center">Alto</td>
             <td align="center">Alto</td>
@@ -68,5 +67,3 @@
         </tr>
     </tbody>
 </table>
-</body>
-</html>
